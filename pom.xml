@@ -25,7 +25,7 @@
         <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
         <spring.jdbc.version>5.2.1.RELEASE</spring.jdbc.version>
 
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mockito.version>1.9.5</mockito.version>
     </properties>
 
